@@ -4,10 +4,8 @@ module.exports = {
   facts: {
     'Residence': `<a href="https://www.google.com/maps/place/Serra,+State+of+Esp%C3%ADrito+Santo/@-20.1616778,-40.2972365,12.04z/data=!4m5!3m4!1s0xb81fa3965b36af:0x521cd91111dd2e08!8m2!3d-20.1279854!4d-40.3081077">
                   <i class="fa fa-home fact-icon"></i>Serra/ES - BR</a>`,
-    'LinkedIn': `<a href="http://www.linkedin.com/in/denisefukai">
-                  <i class="fab fa-linkedin fast-icon </i>denisefukai</a>`,
-    'GitHub': `<a href="http://github.com/denisefukai"> 
-                  <i class="fab fa-github fact-icon></i> denisefukai</a>`,
+    'LinkedIn': '<a href="http://www.linkedin.com/in/denisefukai"><i class="fab fa-linkedin fast-icon </i>denisefukai</a>',
+    'GitHub': '<a href="http://github.com/denisefukai"><i class="fab fa-github fact-icon></i> denisefukai</a>',
     'Email': '<a href="mailto:denise.fukai@gmail.com"><i class="fa fa-envelope fact-icon"></i>denise.fukai@gmail.com</a>'
   },
   skills: [
