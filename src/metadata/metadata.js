@@ -1,13 +1,14 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Denise Fukai',
+  title: 'Oceanographer, Data Scientist and Network Infrastructure Technician',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
-                </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Residence': `<a href="https://www.google.com/maps/place/Serra,+State+of+Esp%C3%ADrito+Santo/@-20.1616778,-40.2972365,12.04z/data=!4m5!3m4!1s0xb81fa3965b36af:0x521cd91111dd2e08!8m2!3d-20.1279854!4d-40.3081077">
+                  <i class="fa fa-home fact-icon"></i>Serra/ES - BR</a>`,
+    'LinkedIn': `<a href="http://www.linkedin.com/in/denisefukai">
+                  <i class="fab fa-linkedin fast-icon </i>denisefukai</a>`,
+    'GitHub': `<a href="http://github.com/denisefukai"> 
+                  <i class="fab fa-github fact-icon></i> denisefukai</a>`,
+    'Email': '<a href="mailto:denise.fukai@gmail.com"><i class="fa fa-envelope fact-icon"></i>denise.fukai@gmail.com</a>'
   },
   skills: [
     ['Comedy', 100],
