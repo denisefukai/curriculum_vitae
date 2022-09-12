@@ -9,13 +9,12 @@ module.exports = {
     'Email': '<a href="mailto:denise.fukai@gmail.com"><i class="fa fa-envelope fact-icon"></i>denise.fukai@gmail.com</a>'
   },
   interests: [
-    ['Climate variability', 100],
-    ['Climate finance', 100],
-    ['Climate change', 80],
-    ['Ocean Instrumentation (low-cost devices)', 50],
+    ['Python', 100],
+    ['Climate sciences', 100],
+    ['ML & AI', 80],
+    ['Low-cost devices', 50],
     ['Atmosphere-ocean interaction', 70],
-    ['Digital Twin', 70],
-    ['Python', 100]
+    ['Digital Twin', 70]
   ],
   positions: [
     {
