@@ -8,15 +8,14 @@ module.exports = {
     'GitHub': '<a href="http://github.com/denisefukai"><i class="fab fa-github fact-icon"></i> denisefukai</a>',
     'Email': '<a href="mailto:denise.fukai@gmail.com"><i class="fa fa-envelope fact-icon"></i>denise.fukai@gmail.com</a>'
   },
-  skills: [
-    ['Portuguese', 100],
-    ['English', 80],
-    ['Spanish', 40],
-    ['Python', 70],
-    ['SQL', 100],
-    ['Posgres', 75],
-    ['CSS', 100],
-    ['HMTL', 100],
+  interests: [
+    ['Climate variability', 100],
+    ['Climate finance', 100],
+    ['Climate change', 80],
+    ['Ocean Instrumentation (low-cost devices)', 50],
+    ['Atmosphere-ocean interaction', 70],
+    ['Digital Twin', 70],
+    ['Python', 100]
   ],
   positions: [
     {
@@ -24,9 +23,9 @@ module.exports = {
       period: '2012 - 2013',
       skills: ['matlab', 'adcirc', 'coastal modelling'],
       contents: `
-    UFES - Coordination for the Improvement of Higher Education (Capes) - Brazil 
-    Project: Numerical Modelling Development using ADCIRC
-    Supervisor: Julio Tomaz Aquije Chacaltana
+      UFES - Coordination for the Improvement of Higher Education (Capes) - Brazil 
+      Project: Numerical Modelling Development using ADCIRC
+      Supervisor: Julio Tomaz Aquije Chacaltana
 `
     },
     {
@@ -34,18 +33,18 @@ module.exports = {
       period: 'Feb/2014 - Jun/2015',
       skills: ['english'],
       contents: `
-    National Council for Research and Development (CNPq) - Brazil
-    Exchange scholarship: 6-months language course and a year of a graduate course at UNSW`
+      National Council for Research and Development (CNPq) - Brazil
+      Exchange scholarship: 6-months language course and a year of a graduate course at UNSW`
     },
     {
       title: 'ARCCSS Summer Research Scholarship',
       period: 'Dec/2014 - Feb/2015',
       skills: ['ENSO', 'mode variability'],
       contents: `
-    Project: “Ocean-atmosphere interaction analysis through the first version of 
-    recharge oscillator model”
-    ARCCSS / IMAS - Australia
-    Supervisor: Eric Oliver, Neil Holbrook, Catia Domingues, James Risbey`
+      Project: “Ocean-atmosphere interaction analysis through the first version of 
+      recharge oscillator model”
+      ARCCSS / IMAS - Australia
+      Supervisor: Eric Oliver, Neil Holbrook, Catia Domingues, James Risbey`
     },
 
     {
@@ -64,28 +63,89 @@ module.exports = {
       period: '2017 - present',
       skills: ['data science', 'wave analysis', 'climate projection', 'coastal'],
       contents: `
-    Research Collaborator (Data Analyst Support)
-    Project: This 4 years project aims to understand the short and long term local impacts 
-    and projections for the southeast Brazilian coast due to climate change. The analysis 
-    focus on extreme wave events, sea level and hydrodynamical changes and combined coastal 
-    inundation processes.
-    CAPES project registration no: 88887.145855/2017.00`
+      Research Collaborator (Data Analyst Support)
+      Project: This 4 years project aims to understand the short and long term local impacts 
+      and projections for the southeast Brazilian coast due to climate change. The analysis 
+      focus on extreme wave events, sea level and hydrodynamical changes and combined coastal 
+      inundation processes.
+      CAPES project registration no: 88887.145855/2017.00`
+    },
+
+    {
+      title: 'EGS Brasil Internship',
+      period: 'Jul - Dec 2018',
+      skills: ['python', 'wave analysis', 'environmental monitoring', 'report writing'],
+      contents: `
+      EGS Survey Brasil - Survey solutions for marine projects 
+      Activity: Meteoceanographic data processing (wave and current profilers & CTD; meteorological 
+      station data), and elaboration of technical reports`
+    },
+
+    {
+      title: 'Bio-Optical Oceanography Course',
+      period: '14-21 Sep 2019',
+      skills: ['bio-optics', 'instrumentation', 'data acquisition', 'data analysis'],
+      contents: `
+      CEBIMar | USP - São Sebastião
+      Fundamentals of marine optics, tools and applied instrumentation to quantify ocean properties, 
+      especially biological variables. Field planning, data collection, operation of instruments, 
+      processing and interpretation of collected data.`
     }
   ],
+
+
   experience: [
     {
-      header: 'Performance',
-      skills: ['theater', 'play'],
+      header: 'EGUCHI et al., 2019',
+      skills: ['conference poster'],
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
+      EGUCHI, B. M. M.; FUKAI, D. T.; BONFIM, L. N. S. KLUMB-OLIVEIRA, L. A. 
+      Setorização das alturas de ondas ao longo da costa do estado do Espírito Santo. 
+      XIII OMARSAT. 2019.
+(Significant wave height clustering for the coast of Espírito Santo)
 `
     },
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
+      header: 'KLUMB-OLIVEIRA et al., 2019',
+      skills: ['conference presentation'],
       contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
+      KLUMB-OLIVEIRA, L. A.; SOUZA, C. R. G.; FUKAI, D. T.; ALBINO, J.; EGUCHI, B. M. M. 
+      Avaliação do Comportamento de Ressacas Marinhas om Base em Reanálise de Ondas e Observações in loco na Costa Sudeste 
+      do Brasil. 
+      XIII OMARSAT. 2019 
+      (Evaluation of extreme wave events based on reanalysis products and in loco wave data at the Southeast Brazilian Coast)
+`
+    },
+    {
+      header: 'KLUMB-OLIVEIRA & FUKAI, 2020',
+      skills: ['book chapter'],
+      contents: `
+      KLUMB-OLIVEIRA, L. A.; FUKAI, D. T. 
+      A reanálise e sua utilização como ferramenta para o gerenciamento. 
+      In: MUEHE, D.; LINS-DE-BARROS, F. M.; PINHEIRO, L. (orgs.) Geografia Marinha: oceanos e costas na perspectiva de geógrafos. 
+      Rio de Janeiro: PGGM, 2020. p. 154-169. ISBN 978-65-992571-0-0
+      (Reanalysis as a tool for coastal management)
+`
+    },
+    {
+      header: 'FUKAI et al., 2021',
+      skills: ['paper','community outreach'],
+      contents: `
+      FUKAI D, OAQUIM A and CIRANO M (2021). 
+      How Might the Ocean Change in the Future?. 
+      Front. Young Minds. 9:700622. doi: 10.3389/frym.2021.700622
+`
+    },
+
+    {
+      header: 'II Early Career Symposium on Marine Biogeochemical Modelling',
+      skills: ['presentation'],
+      contents: `
+      7-8 Dec 2021
+      CMIP6 South Atlantic water masses identification and distribution by dynamic methods.
 `
     }
-  ]
+  ],
+
+
 };
