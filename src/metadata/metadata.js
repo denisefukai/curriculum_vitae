@@ -51,10 +51,10 @@ module.exports = {
       period: '2016 - 2017',
       skills: ['community outreach', 'extension project'],
       contents: `
-    Co-funder of an extension group to disseminate oceanography to the general public. 
-    The focus was on the translation of science and research projects through public 
-    communication. The project has now been implemented as a long term Extension 
-    Programme at University (UFES) by current members.`
+      Co-funder of an extension group to disseminate oceanography to the general public. 
+      The focus was on the translation of science and research projects through public 
+      communication. The project has now been implemented as a long term Extension 
+      Programme at University (UFES) by current members.`
     },
 
     {
