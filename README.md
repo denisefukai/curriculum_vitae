@@ -1,5 +1,6 @@
-# The Curriculum Vitae Template
+## Denise Fukai - Curriculum Vitae 
 
+<<<<<<< HEAD
 You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
 
 ## What does this project do?
@@ -40,3 +41,6 @@ The main HTML template is located in [src/templates/index.html](src/templates/in
 
 Don't forget to update [src/assets/favicon.ico](src/assets/favicon.ico). You can generate a new favicon out of your photo with [icoconvert.com](http://icoconvert.com/).
 # denisefukai.github.io
+=======
+based on sneas-cv template [http://sneas.github.io/cv](http://sneas.github.io/cv).
+>>>>>>> 5e75915bc58d63570a4d4dbe2d643849247167c4
