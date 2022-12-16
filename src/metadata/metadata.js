@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Denise Fukai',
-  title: 'Oceanographer, Data Scientist and Network Infrastructure Technician',
+  title: 'Data Scientist and Oceanographer',
   facts: {
     'Residence': `<a href="https://www.google.com/maps/place/Serra,+State+of+Esp%C3%ADrito+Santo/@-20.1616778,-40.2972365,12.04z/data=!4m5!3m4!1s0xb81fa3965b36af:0x521cd91111dd2e08!8m2!3d-20.1279854!4d-40.3081077">
                   <i class="fa fa-home fact-icon"></i>Serra/ES - BR</a>`,
@@ -9,14 +9,65 @@ module.exports = {
     'Email': '<a href="mailto:denise.fukai@gmail.com"><i class="fa fa-envelope fact-icon"></i>denise.fukai@gmail.com</a>'
   },
   interests: [
-    ['Python', 100],
-    ['Climate sciences', 100],
-    ['ML & AI', 80],
-    ['Low-cost devices', 50],
-    ['Atmosphere-ocean interaction', 70],
-    ['Digital Twin', 70]
+    ['Python', 75],
+    ['Data Analysis', 90],
+    ['SQL', 50],
+    ['GitHub', 60],
+    ['Research', 100],
   ],
-  positions: [
+    
+  experience: [
+      {
+        title: 'Vortex Mundus',
+        period: 'Oct/2022 - present',
+        skills: ['python', 'data analysis', 'data visualisation', 'report writing'],
+        contents: `
+        vortexmundus.com | Rio de Janeiro,RJ
+        Wave spectral data analysis focusing evaluation of data to support navigation offshore operations. Development of new methodologies, preprocessing and evaluation of data used by the clients.`
+      },
+               
+      {
+        title: 'MOVAR Project- MOnitoramento da VARiabilidade Regional do transporte de calor e volume na camada superficial do oceano Atlântico Sul entre o Rio de Janeiro (RJ) e a Ilha Trindade',
+        period: '2019 - 2022',
+        skills: ['data analysit','python', 'data acquisition', 'model data analysis'],
+        contents: `
+        Climate model data analysis: retrieving, transforming, regridding global multidimensional data, in order to analyse the South Atlantic Ocean water temperature and salinity sctructure and projected changes under warming scenario. Compare model data to field data under the MOVAR project ... Requires habilites to deal with large datasets.`
+      },
+               
+      {
+        title: 'EGS Brasil Internship',
+        period: 'Jul - Dec 2018',
+        skills: ['python', 'wave analysis', 'environmental monitoring', 'report writing'],
+        contents: `
+        EGS Survey Brasil - Survey solutions for marine projects
+        Activity: Meteoceanographic data processing (wave and current profilers & CTD; meteorological
+        station data), and elaboration of technical reports`
+      },
+      {
+        title: 'CAPES Beach Morphodynamic Response of the Southeast of Brazil to the Sea Level Rise and Extremes Meteo-oceanographic Events until 2100',
+        period: '2017 - 2022',
+        skills: ['data science', 'wave analysis', 'climate projection', 'coastal'],
+        contents: `
+        Research Collaborator (Data Analyst Support)
+        Project: This 4 years project aims to understand the short and long term local impacts
+        and projections for the southeast Brazilian coast due to climate change. The analysis
+        focus on extreme wave events, sea level and hydrodynamical changes and combined coastal
+        inundation processes.
+        CAPES project registration no: 88887.145855/2017.00`
+      },
+      {
+        title: 'ARCCSS Summer Research Scholarship',
+        period: 'Dec/2014 - Feb/2015',
+        skills: ['ENSO', 'mode variability'],
+        contents: `
+        Project: “Ocean-atmosphere interaction analysis through the first version of
+        recharge oscillator model”
+        ARCCSS / IMAS - Australia
+        Supervisor: Eric Oliver, Neil Holbrook, Catia Domingues, James Risbey`
+      }
+    ],
+
+positions: [
     {
       title: "Young Talents in Science Program",
       period: '2012 - 2013',
@@ -35,16 +86,6 @@ module.exports = {
       National Council for Research and Development (CNPq) - Brazil
       Exchange scholarship: 6-months language course and a year of a graduate course at UNSW`
     },
-    {
-      title: 'ARCCSS Summer Research Scholarship',
-      period: 'Dec/2014 - Feb/2015',
-      skills: ['ENSO', 'mode variability'],
-      contents: `
-      Project: “Ocean-atmosphere interaction analysis through the first version of 
-      recharge oscillator model”
-      ARCCSS / IMAS - Australia
-      Supervisor: Eric Oliver, Neil Holbrook, Catia Domingues, James Risbey`
-    },
 
     {
       title: 'Oceanografia para Todos (Oceanography for Everyone)',
@@ -55,29 +96,6 @@ module.exports = {
       The focus was on the translation of science and research projects through public 
       communication. The project has now been implemented as a long term Extension 
       Programme at University (UFES) by current members.`
-    },
-
-    {
-      title: 'CAPES Beach Morphodynamic Response of the Southeast of Brazil to the Sea Level Rise and Extremes Meteo-oceanographic Events until 2100',
-      period: '2017 - present',
-      skills: ['data science', 'wave analysis', 'climate projection', 'coastal'],
-      contents: `
-      Research Collaborator (Data Analyst Support)
-      Project: This 4 years project aims to understand the short and long term local impacts 
-      and projections for the southeast Brazilian coast due to climate change. The analysis 
-      focus on extreme wave events, sea level and hydrodynamical changes and combined coastal 
-      inundation processes.
-      CAPES project registration no: 88887.145855/2017.00`
-    },
-
-    {
-      title: 'EGS Brasil Internship',
-      period: 'Jul - Dec 2018',
-      skills: ['python', 'wave analysis', 'environmental monitoring', 'report writing'],
-      contents: `
-      EGS Survey Brasil - Survey solutions for marine projects 
-      Activity: Meteoceanographic data processing (wave and current profilers & CTD; meteorological 
-      station data), and elaboration of technical reports`
     },
 
     {
@@ -93,7 +111,7 @@ module.exports = {
   ],
 
 
-  experience: [
+  publications: [
     {
       header: 'EGUCHI et al., 2019',
       skills: ['conference poster'],
