@@ -23,7 +23,7 @@ module.exports = {
         skills: ['python', 'data analysis', 'data visualisation', 'report writing'],
         contents: `
         vortexmundus.com | Rio de Janeiro,RJ
-        Wave spectral data analysis focusing evaluation of data to support navigation offshore
+        Wave spectral data analysis focusing on evaluation of data to support offshore navigation 
         operations. Development of new methodologies, preprocessing and evaluation of data
         used by the clients.`
       },
@@ -35,7 +35,7 @@ module.exports = {
         contents: `
         Climate model data analysis: retrieving, transforming, regridding global multidimensional data,
         in order to analyse the South Atlantic Ocean water temperature and salinity sctructure
-        and projected changes under warming scenario.`
+        and projected changes under a warming scenario.`
       },
                
       {
