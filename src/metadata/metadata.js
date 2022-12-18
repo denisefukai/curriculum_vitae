@@ -24,8 +24,8 @@ module.exports = {
         contents: `
         vortexmundus.com | Rio de Janeiro,RJ
         Wave spectral data analysis focusing evaluation of data to support navigation offshore
-               operations. Development of new methodologies, preprocessing and evaluation of data
-               used by the clients.`
+        operations. Development of new methodologies, preprocessing and evaluation of data
+        used by the clients.`
       },
                
       {
@@ -34,10 +34,8 @@ module.exports = {
         skills: ['data analysit','python', 'data acquisition', 'model data analysis'],
         contents: `
         Climate model data analysis: retrieving, transforming, regridding global multidimensional data,
-               in order to analyse the South Atlantic Ocean water temperature and salinity sctructure
-               and projected changes under warming scenario. Compare model data to field data under the
-               MOVAR project (MOnitoramento da VARiabilidade Regional do transporte de calor e volume
-               na camada superficial do oceano Atlântico Sul entre o Rio de Janeiro (RJ) e a Ilha Trindade) ... Requires habilites to deal with large datasets.`
+        in order to analyse the South Atlantic Ocean water temperature and salinity sctructure
+        and projected changes under warming scenario.`
       },
                
       {
