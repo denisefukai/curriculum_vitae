@@ -14,6 +14,7 @@ module.exports = {
     ['SQL', 50],
     ['GitHub', 60],
     ['Research', 100],
+    ['OpenAI', 80],
   ],
     
   experience: [
@@ -31,7 +32,7 @@ module.exports = {
       {
         title: 'MOVAR Project',
         period: '2019 - 2022',
-        skills: ['data analysit','python', 'data acquisition', 'model data analysis'],
+        skills: ['data analysis','python', 'data acquisition', 'model data analysis'],
         contents: `
         Climate model data analysis: retrieving, transforming, regridding global multidimensional data,
         in order to analyse the South Atlantic Ocean water temperature and salinity sctructure
@@ -50,8 +51,9 @@ module.exports = {
       {
         title: 'CAPES Beach Morphodynamic Response of the Southeast of Brazil to the Sea Level Rise and Extremes Meteo-oceanographic Events until 2100',
         period: '2017 - 2022',
-        skills: ['data science', 'wave analysis', 'climate projection', 'coastal'],
-        contents: `
+        skills: ['data science', 'wave analysis', 'climate projection', 'coastal processes'],
+        contents:
+        '<a href="https://drive.google.com/file/d/1Tm7LAmBfjCjGTIqFlRa7eSuhhY5ScyfJ/view?usp=sharing" Research Collaborator </a>'
         Research Collaborator (Data Analyst Support)
         Project: This 4 years project aims to understand the short and long term local impacts
         and projections for the southeast Brazilian coast due to climate change. The analysis
@@ -88,7 +90,7 @@ positions: [
       skills: ['english'],
       contents: `
       National Council for Research and Development (CNPq) - Brazil
-      Exchange scholarship: 6-months language course and a year of a graduate course at UNSW`
+      Exchange scholarship: 6-months language course and one year of undergraduate course at UNSW`
     },
 
     {
