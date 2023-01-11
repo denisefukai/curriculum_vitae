@@ -52,8 +52,7 @@ module.exports = {
         title: 'CAPES Beach Morphodynamic Response of the Southeast of Brazil to the Sea Level Rise and Extremes Meteo-oceanographic Events until 2100',
         period: '2017 - 2022',
         skills: ['data science', 'wave analysis', 'climate projection', 'coastal processes'],
-        contents:
-        '<a href="https://drive.google.com/file/d/1Tm7LAmBfjCjGTIqFlRa7eSuhhY5ScyfJ/view?usp=sharing" Research Collaborator </a>'
+        contents:`
         Research Collaborator (Data Analyst Support)
         Project: This 4 years project aims to understand the short and long term local impacts
         and projections for the southeast Brazilian coast due to climate change. The analysis
