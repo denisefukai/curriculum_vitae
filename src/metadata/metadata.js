@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'Patrick Coser',
+  name: 'Denise Fukai',
   title: 'Data Scientist and Oceanographer',
   facts: {
     'Residence': `<a href="https://www.google.com/maps/place/Serra,+State+of+Esp%C3%ADrito+Santo/@-20.1616778,-40.2972365,12.04z/data=!4m5!3m4!1s0xb81fa3965b36af:0x521cd91111dd2e08!8m2!3d-20.1279854!4d-40.3081077">
