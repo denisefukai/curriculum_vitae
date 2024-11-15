@@ -11,10 +11,8 @@ module.exports = {
   skills: [
     ['Python', 75],
     ['Data Analysis', 90],
-    ['SQL', 50],
     ['GitHub', 60],
     ['Research', 100],
-    ['OpenAI', 80],
   ],
     
   experience: [
@@ -42,7 +40,7 @@ module.exports = {
       {
         title: 'EGS Brasil Internship',
         period: 'Jul - Dec 2018',
-        skills: ['python', 'wave analysis', 'environmental monitoring', 'report writing'],
+        skills: ['python', 'wave analysis', 'environmental monitoring', 'report writing','raw data'],
         contents: `
         EGS Survey Brasil - Survey solutions for marine projects
         Activity: Meteoceanographic data processing (wave and current profilers & CTD; meteorological
@@ -92,7 +90,7 @@ positions: [
       Exchange scholarship: 6-months language course and one year of undergraduate course at UNSW`
     },
 
-    {
+    /*{
       title: 'Oceanografia para Todos (Oceanography for Everyone)',
       period: '2016 - 2017',
       skills: ['community outreach', 'extension project'],
@@ -101,8 +99,9 @@ positions: [
       The focus was on the translation of science and research projects through public 
       communication. The project has now been implemented as a long term Extension 
       Programme at University (UFES) by current members.`
-    },
+    },*/
 
+    
     {
       title: 'Bio-Optical Oceanography Course',
       period: '14-21 Sep 2019',
@@ -112,32 +111,46 @@ positions: [
       Fundamentals of marine optics, tools and applied instrumentation to quantify ocean properties, 
       especially biological variables. Field planning, data collection, operation of instruments, 
       processing and interpretation of collected data.`
-    }
+    },
+
+    {
+      title: 'Hydrographic Survey/Data Processing Training - GPHidro',
+      period: '14-19 outubro 2024',
+      skills: ['bathymetry', 'SBES', 'MBES','Data Processing'],
+      contents: `
+      Completed training covering essential hydrographic survey systems and methodologies, 
+      including Single Beam Echo Sounder (SBES), Multi Beam Echo Sounder (MBES), Side Scan Sonar (SSS), 
+      and Sub-bottom Profiler (SBP). Gained practical experience in data processing for tidal, sonar, 
+      sub-bottom, single beam, and multibeam datasets, along with key topics in kinematic positioning, 
+      orientation, and hydrographic performance standards. Software practices include PacMare, Hypack, SonarWiz, and QPS.`
+    },
   ],
 
 
   publications: [
+    `/*
     {
       header: 'EGUCHI et al., 2019',
       skills: ['conference poster'],
-      contents: `
+      contents: ``
       EGUCHI, B. M. M.; FUKAI, D. T.; BONFIM, L. N. S. KLUMB-OLIVEIRA, L. A. 
       Setorização das alturas de ondas ao longo da costa do estado do Espírito Santo. 
       XIII OMARSAT. 2019.
 (Significant wave height clustering for the coast of Espírito Santo)
-`
+``
     },
     {
       header: 'KLUMB-OLIVEIRA et al., 2019',
       skills: ['conference presentation'],
-      contents: `
+      contents: ``
       KLUMB-OLIVEIRA, L. A.; SOUZA, C. R. G.; FUKAI, D. T.; ALBINO, J.; EGUCHI, B. M. M. 
       Avaliação do Comportamento de Ressacas Marinhas om Base em Reanálise de Ondas e Observações in loco na Costa Sudeste 
       do Brasil. 
       XIII OMARSAT. 2019 
       (Evaluation of extreme wave events based on reanalysis products and in loco wave data at the Southeast Brazilian Coast)
-`
-    },
+``
+    },*/`
+
     {
       header: 'KLUMB-OLIVEIRA & FUKAI, 2020',
       skills: ['book chapter'],
@@ -158,15 +171,15 @@ positions: [
       Front. Young Minds. 9:700622. doi: 10.3389/frym.2021.700622
 `
     },
-
+`/*
     {
       header: 'II Early Career Symposium on Marine Biogeochemical Modelling',
       skills: ['presentation'],
-      contents: `
+      contents: ``
       7-8 Dec 2021
       CMIP6 South Atlantic water masses identification and distribution by dynamic methods.
-`
-    }
+``
+    }*/`
   ],
 
 
