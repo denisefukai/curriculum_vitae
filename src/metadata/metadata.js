@@ -128,7 +128,7 @@ positions: [
 
 
   publications: [
-    `/*
+    /*
     {
       header: 'EGUCHI et al., 2019',
       skills: ['conference poster'],
@@ -149,7 +149,7 @@ positions: [
       XIII OMARSAT. 2019 
       (Evaluation of extreme wave events based on reanalysis products and in loco wave data at the Southeast Brazilian Coast)
 ``
-    },*/`
+    },*/
 
     {
       header: 'KLUMB-OLIVEIRA & FUKAI, 2020',
@@ -171,15 +171,15 @@ positions: [
       Front. Young Minds. 9:700622. doi: 10.3389/frym.2021.700622
 `
     },
-`/*
+/*
     {
       header: 'II Early Career Symposium on Marine Biogeochemical Modelling',
       skills: ['presentation'],
       contents: ``
       7-8 Dec 2021
       CMIP6 South Atlantic water masses identification and distribution by dynamic methods.
-``
-    }*/`
+
+    }*/
   ],
 
 
